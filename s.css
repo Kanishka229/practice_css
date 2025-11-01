@@ -1,0 +1,39 @@
+#red{
+  text-align: center;
+    /* grid-row: auto;
+    grid-column: auto; */
+    background-color: red;
+}
+#blue{
+     text-align: center;
+    /* grid-row: auto; */
+    background-color: blue;
+}
+
+#orange{
+     text-align: center;
+    /* grid-row: auto; */
+    background-color: orangered;
+
+}
+
+#Green{
+     text-align: center;
+    /* grid-row: auto; */
+    background-color: green;
+}
+ #yellow{
+     text-align: center;
+    /* grid-row: auto; */
+    background-color: yellowgreen;
+ }
+ h1,h2{
+    text-align: center;
+    color: whitesmoke;
+ 
+
+ }
+ *{
+    background-color: blueviolet;
+    grid-row: auto;
+ }
